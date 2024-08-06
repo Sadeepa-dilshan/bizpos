@@ -10,6 +10,7 @@
 </section>
 
 <!-- Main content -->
+
 <section class="content no-print">
     <div class="row">
         <div class="col-sm-12">
